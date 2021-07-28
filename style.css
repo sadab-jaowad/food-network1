@@ -1,0 +1,128 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    margin: 0;
+}
+
+#top-content {
+    padding-bottom: 5%;
+}
+
+.about-me {
+    padding-bottom: 5%;
+}
+
+.orange-color {
+    color: orange;
+}
+
+#text1 {
+    text-shadow: 0px 1px 1px;
+    color: #575757;
+}
+
+.text2 {
+    color: lightslategray;
+}
+
+#text3 {
+    font-size: small;
+}
+
+.text4 {
+    text-align: center;
+}
+
+#text5 {
+    color: lightgrey;
+}
+
+.half-width1 {
+    width: 60%;
+    padding-left: 6%;
+    margin: 50px;
+}
+
+.half-width2 {
+    width: 60%;
+    padding-left: 6%;
+    margin: 50px;
+}
+
+.half-width1 img {
+    width: 100%;
+}
+
+.half-width2 img {
+    width: 64%;
+}
+
+.btn {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: small;
+}
+
+.flexible-container {
+    display: inline-flex;
+    margin-bottom: 100px;
+}
+
+.mid-banner {
+    background-image: url('images/shapes/7.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: fit-content;
+}
+
+.card {
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 150px;
+}
+
+.card-item {
+    width: 30%;
+    margin: 0 5px;
+    padding-left: 8px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px 0px grey;
+    height: 20%;
+}
+
+.card-image {
+    width: 95%;
+    padding-top: 30px;
+}
+
+.footer-font {
+    color: #575757;
+}
+
+.background {
+    height: 150px;
+    background-color: black;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.card2 {
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 150px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px 0px grey;
+}
+
+.info-description {
+    margin: 20px 20px;
+}
