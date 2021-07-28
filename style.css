@@ -1,14 +1,9 @@
 body {
     font-family: 'Montserrat', sans-serif;
     font-weight: bolder;
-    margin: 0;
 }
 
 #top-content {
-    padding-bottom: 5%;
-}
-
-.about-me {
     padding-bottom: 5%;
 }
 
@@ -50,7 +45,7 @@ body {
 }
 
 .half-width1 img {
-    width: 100%;
+    width: 150%;
 }
 
 .half-width2 img {
